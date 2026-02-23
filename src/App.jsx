@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import {
   Activity, Shield, Cpu, Truck, Camera, Stethoscope, Search, Car,
-  X, Server, Layers, Network, Database, Terminal, ChevronRight, Info, Menu
+  X, Server, Layers, Network, Database, Terminal, ChevronRight, Info, Menu, Zap
 } from 'lucide-react';
 
 // --- Configuration Data ---
